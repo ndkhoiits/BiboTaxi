@@ -1,4 +1,4 @@
-package com.khoinguyen.bibotaxi.wiget;
+package com.khoinguyen.bibotaxi.widget;
 
 import android.app.Activity;
 import android.content.Context;

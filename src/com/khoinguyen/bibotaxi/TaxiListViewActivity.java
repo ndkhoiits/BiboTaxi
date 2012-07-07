@@ -18,7 +18,7 @@ import android.widget.ListView;
 
 import com.khoinguyen.bibotaxi.dao.BiboTaxiDB;
 import com.khoinguyen.bibotaxi.model.Taxi;
-import com.khoinguyen.bibotaxi.wiget.TaxiListViewAdapter;
+import com.khoinguyen.bibotaxi.widget.TaxiListViewAdapter;
 
 public class TaxiListViewActivity extends Activity {
 	private ListView listView;
