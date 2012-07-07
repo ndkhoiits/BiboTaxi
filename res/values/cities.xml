@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="cities">
+	    <item>Ha Noi</item>
+	    <item>Ho Chi Minh</item>
+	    <item>Da Nang</item>
+	    <item>Hai Phong</item>
+	    <item>Other</item>
+	</string-array>    
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="city_title">Lựa chọn thành phố</string>
+    <string name="taxi_title">Lựa chọn hãng taxi</string>
+    <string name="app_name">BiboTaxi</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="ask_for_calling">Bạn có chắc chắn muốn gọi taxi %s không?</string>
+
+</resources>
